@@ -1,0 +1,19 @@
+{
+  "name": "kufur-filtresi",
+  "version": "0.0.1",
+  "description": "Projelerde küfür filtreleme işlemleri için kullanılabilecek bir kaynaktır. Listelerin ve kod örnekleri için her türlü katkıya açık bir projedir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oralekin/kufur-filtresi.git"
+  },
+  "author": "90pixel",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/oralekin/kufur-filtresi/issues"
+  },
+  "homepage": "https://github.com/oralekin/kufur-filtresi#readme"
+}
